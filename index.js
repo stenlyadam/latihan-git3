@@ -5,3 +5,4 @@ console.log("line yang sama terjadi conflict");
 console.log("Automatic conflict");
 console.log("Testing fix merge conflict");
 console.log("ini bogar");
+console.log("test github web dev")
